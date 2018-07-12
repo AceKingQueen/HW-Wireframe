@@ -6,4 +6,4 @@ Here, however, I am simply practicing my HTML and CSS skills while trying to rec
 
 _My Biggest Challenge_ was to sort out relative and absolute positioning. 
 
-_I wish I had known_ how to use flexbox.
+_I wish I had known then_ how to use flexbox.
